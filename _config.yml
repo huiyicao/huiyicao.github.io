@@ -2,6 +2,9 @@
 repository: huiyicao/huiyicao.github.io
 favicon: images/favicon.ico
 
+# mode
+darkmode: true
+
 # Personal info
 name: Huiyi Cao
 title: Ph.D. Candicate
