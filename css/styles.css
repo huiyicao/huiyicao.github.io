@@ -21,6 +21,7 @@
   --green: #28a745;
   --teal: #20c997;
   --cyan: #17a2b8;
+  --greygreen: #6aa89c;
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
@@ -159,7 +160,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #6aa89c;
   text-decoration: none;
   background-color: transparent;
 }
@@ -6097,7 +6098,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #6aa89c !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9799,7 +9800,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #6aa89c !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
